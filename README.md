@@ -6,7 +6,12 @@
 
 ## プレゼンスライド
 
+https://github.com/RIshimoto/KyotoshogiAI/blob/main/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf
+
 ## デモ
+
+https://user-images.githubusercontent.com/57135683/210591241-84f426a5-ecc7-4506-a2ca-3945aacdc262.mp4
+
 
 ## インストール
 ```
