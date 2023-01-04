@@ -1,0 +1,1 @@
+include kyotoshogi-ai *.png *.h5
