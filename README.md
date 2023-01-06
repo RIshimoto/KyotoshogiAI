@@ -1,6 +1,6 @@
 # KyotoshogiAI
 ## 概要
-卒業論文の際に制作したAlphaZero[^1]アルゴリズムを用いた京都将棋[^2]のゲームAI。</br>
+AlphaZero[^1]アルゴリズムを用いた京都将棋[^2]のゲームAI。</br>
 [^1]:https://ja.wikipedia.org/wiki/AlphaZero
 [^2]:https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B0%86%E6%A3%8B
 
