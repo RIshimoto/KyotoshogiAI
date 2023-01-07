@@ -1,4 +1,4 @@
-# KyotoshogiAI
+京都将棋AI
 ## 概要
 AlphaZero[^1]アルゴリズムを用いた京都将棋[^2]のゲームAI。</br>
 [^1]:https://ja.wikipedia.org/wiki/AlphaZero
